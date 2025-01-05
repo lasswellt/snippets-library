@@ -1,10 +1,5 @@
 # snippets-library
 
-Here’s a `README.md` template in script form that you can use for your "snippits-library" repository:
-
-```markdown
-# Snippits Library
-
 A collection of scripts and code snippets I've gathered over the years, organized by technology. This repository serves as a personal reference and a resource for anyone looking to solve problems or learn from practical examples.
 
 ---
@@ -78,4 +73,3 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for de
 ## 💡 Inspiration and Sources
 
 This repository includes snippets from personal projects, community resources, and tutorials. Proper attribution is given where applicable.
-```
